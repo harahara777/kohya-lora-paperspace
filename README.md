@@ -42,7 +42,7 @@ Just click copy button on the right.
      * Terminal command
      ```
      cd /notebooks
-     wget https://harahara777.github.io/pps-kohya-setup/kohya-lora.ipynb
+     wget https://harahara777.github.io/kohya-lora-setup/kohya-lora.ipynb
      ```
      * Or you can manualy download notebooks and drag and drop to your directory  
 [https://harahara777.github.io/pps-kohya-setup/kohya-lora.ipynb](https://harahara777.github.io/kohya-lora-paperspace/kohya-lora.ipynb)
